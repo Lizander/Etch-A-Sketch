@@ -1,0 +1,24 @@
+.board {
+	border-style: 1px solid;
+	background-color: #CCCCCC;
+	float:left;
+}
+
+#container {
+	overflow: auto;
+	width:1000px;
+	margin:auto;
+}
+
+.newRow {
+	clear:both;
+}
+
+.btnclass {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	border-radius: 45;
+	background color:#1A1A1A;
+	border-style: groove;
+}
